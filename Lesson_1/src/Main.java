@@ -15,7 +15,6 @@ public class Main {
         for (int i = 0; i < 3; i++) {
             aBox.addFruit(new Apple());
         }
-
         Box<Orange> oBox1 = new Box<>(
                 new Orange(),
                 new Orange()
